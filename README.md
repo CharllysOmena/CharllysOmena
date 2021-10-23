@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Charllys Omena
-- 👀 I’m interested in programation of Games, web, machine learning and artifiial inteligence
+- 👀 I’m interested in create apps, machine learning and artifiial inteligence
 - 🌱 I’m currently learning  python
 - 📫  Meu insta é @Charllys_Omena
 
