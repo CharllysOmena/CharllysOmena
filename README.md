@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Charllys Omena
 - 👀 I’m interested in create apps, machine learning and artifiial inteligence
-- 🌱 I’m currently learning  python
+- 🌱 I’m currently learning  python(django) e dart(flutter)
 - 📫  Meu insta é @Charllys_Omena
 
 <!---
