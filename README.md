@@ -13,7 +13,7 @@
   <img align = "center" height = "35" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align = "center" height = "35" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align = "center" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align = "center" height = "40" width = "40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fdjango-icon-0.html&psig=AOvVaw0pqnYqC2dQD1mBuZc29uLQ&ust=1642017723981000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjguO2-qvUCFQAAAAAdAAAAABAD" />
+  <img align = "center" height = "40" width = "40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
   <img align = "center" height = "35" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align = "center" height = "35" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
