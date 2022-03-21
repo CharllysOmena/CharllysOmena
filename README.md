@@ -1,6 +1,6 @@
 <div align = "center">
   
-## Hi there! my name is Charllys Omena ##
+## Hi there! my name is Charllys Omena. ##
   
 </div>  
  
