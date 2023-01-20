@@ -3,6 +3,11 @@
 ## Hi there! my name is Charllys Omena. ##
   
 </div>  
+
+<div align = "center">
+  <a href="https://github.com/CharllysOmena">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=CharllysOmena&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</div>
   
 <div align = "center" style = "display: inline_block"> <br>
   <img align = "center" height = "35" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
