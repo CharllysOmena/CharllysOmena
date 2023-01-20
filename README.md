@@ -16,9 +16,6 @@ Os frameworks que utilizo ou já utilizei são: DJANGO, FLUTTER E SPRING BOOT.
 
 Outras tecnologias que utilizo para o desenvolvimento são: MOBX, MODULAR, BANCO DE DADOS, HTML, CSS, BOOTSTRAP 5, API REST, FIREBASE.
 
-Para mais informações ou referências de projetos feitos - https://github.com/CharllysOmena
-
-Para um contato mais imediato - Charllysoliver@gmail.com
   
 </div>
   
