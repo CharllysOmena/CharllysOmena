@@ -4,18 +4,11 @@
   
 </div>  
 
-Desenvolvedor mobile apaixonado pela tecnologia na palma da mão. 
-
-Olá, meu nome é Charllys Omena, tenho 21 anos, nativo de Maceió/Al, sou estudante de engenharia da computação e atualmente estagiário no Detran/AL onde atuo no setor de desenvolvimento web com a Linguagem Python e o Framework Django.
-
-Apesar de atuar na área web minha grande ambição está no desenvolvimento mobile, utilizando e me aperfeiçoando em tecnologias como dart, flutter, mobx, MVC e patterns como singleton entre outros.
-
-As minhas principais linguagens de programação são: PYTHON, DART E JAVA.
-
-Os frameworks que utilizo ou já utilizei são: DJANGO, FLUTTER E SPRING BOOT.
-
-Outras tecnologias que utilizo para o desenvolvimento são: MOBX, MODULAR, BANCO DE DADOS, HTML, CSS, BOOTSTRAP 5, API REST, FIREBASE.
-
+<div>
+  <a href="https://github.com/brcds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharllysOmena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharllysOmena&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
 </div>
   
